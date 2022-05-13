@@ -45,7 +45,7 @@
     "@babel/core": "^7.17.10",
     "@commitlint/config-conventional": "^16.2.4",
     "@expo/vector-icons": "^13.0.0",
-    "@react-native-builder-bob": "^0.18.2",
+    "react-native-builder-bob": "^0.18.2",
     "@release-it/conventional-changelog": "^5.0.0",
     "@types/jest": "^27.5.1",
     "@types/react": "^18.0.9",
